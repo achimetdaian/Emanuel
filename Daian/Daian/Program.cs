@@ -10,6 +10,9 @@ namespace Daian
     {
         static void Main(string[] args)
         {
+            int a = 5 +1;
+            Console.WriteLine(a);
+
             Console.WriteLine("Hello world!");
         }
     }
